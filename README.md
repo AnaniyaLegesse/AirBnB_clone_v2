@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ <<<<< HEAD
 AirBnB_clone_v2
 =======
 # AirBnB_clone_v2
@@ -17,4 +17,5 @@ ALXBnB is a complete web application, integrating database storage,a back-end AP
 The project currently only implements the back-end console.
 
 ## Authors:
-Ananiya 	
+Ananiya Legesse  	<https://github.com/AnaniyaLegesse>
+Liul Abera              <https://github.com/Liul-Abera>
